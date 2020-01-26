@@ -2,6 +2,9 @@
 
 ### Visual Studio Project files ###
 *.json
+.gradle
+.vscode
+.wpilib
 
 ### C++ ###
 # Prerequisites
